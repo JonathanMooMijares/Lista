@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="189efebc-a718-493c-9e36-a2051cd2113c" name="Changes" comment="" />
+    <list default="true" id="189efebc-a718-493c-9e36-a2051cd2113c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/deitel/jhtp7/cap17/ExcepcionListaVacia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/deitel/jhtp7/cap17/ExcepcionListaVacia.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WHtRKqZCZ5DuXsGCLWidUSHiwA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
